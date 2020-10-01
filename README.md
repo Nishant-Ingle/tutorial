@@ -1,2 +1,4 @@
-#myapp
-this is my app
+MyApp
+-----
+
+Web application built using basic HTML, CSS & JavaScript.
